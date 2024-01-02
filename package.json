@@ -1,0 +1,12 @@
+{
+  "name": "port2",
+  "version": "1.0.0",
+  "description": "- Responsive Personal Portfolio Website Using HTML CSS & JavaScript\r - Smooth scrolling in each section.\r - Includes a light and dark mode.\r - Developed first with the Mobile First methodology, then for desktop.\r - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server -p 3000"
+  },
+  "author": "",
+  "license": "ISC"
+}
